@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.edu.infnet</groupId>
-	<artifactId>victorgsilva</artifactId>
+	<artifactId>evertonrsilva</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>victorgsilva</name>
-	<description>Projeto Java Web - Victor</description>
+	<name>evertonrsilva</name>
+	<description>Projeto Java Web - Everton</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
